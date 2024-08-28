@@ -1,0 +1,29 @@
+h1,h2,h3{
+    color: blue;
+}
+
+p{
+    /*background-color: yellow;*/
+    background-image: url(assets\img\about-sushi.png);
+    background-repeat: repeat;
+    direction: rtl;
+    padding-top: 5px;
+    
+
+}
+a:visited{
+    color:purple;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: green;
+}
+
+ul{
+    list-style: circle;
+}
+ol{
+    list-style:lower-greek;
+}
